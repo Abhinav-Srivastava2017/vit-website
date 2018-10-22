@@ -22,3 +22,6 @@
 .snow{
     background-color: #f9f9f9;
 }
+.shadow{
+    box-shadow: 2px 2px 5px 5px #e3e3e3;
+}

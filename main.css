@@ -1,0 +1,21 @@
+.vit-blue{
+    background-color: #3C5A98;
+}
+#nav1{
+    height: 25px;
+}
+.dropdown{
+    z-index: 100;
+}
+#nav2{
+    z-index: 50;
+}
+/* #myCarousel{
+    max-height: 50px;
+} */
+.carousel-indicators li{
+    background-color: rgb(207, 197, 197);
+}
+.carousel-indicators li .active{
+    background-color: rgba(231, 211, 211, 0.884);
+}

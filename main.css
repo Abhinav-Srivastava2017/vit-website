@@ -39,3 +39,14 @@
 .courses .list-group-item:hover{
     background-color: #f9f9f9;
 }
+.btn-link{
+    color: #3C5A98;
+}
+.btn-link:hover{
+    color: #3C5A98;
+    text-decoration: none;
+}
+.btn-link:active{
+    color: #3C5A98;
+    text-decoration: none;
+}

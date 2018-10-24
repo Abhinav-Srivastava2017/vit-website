@@ -1,6 +1,9 @@
 .vit-blue{
     background-color: #3C5A98;
 }
+.navbar-toggler{
+    border:none;
+}
 #nav1{
     height: 25px;
 }
